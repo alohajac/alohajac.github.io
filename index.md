@@ -1,9 +1,5 @@
 ## Bio
-### Jack began his career serving as an officer in the U.S. Navy, with duty
-### on several ships and shore stations and including 4 deployments at sea
-### and 1 deployment in Iraq.  Following military service, Jack worked as a
-### strategy and engineering consultant, and he recently returned to
-### graduate school to study oceanography.
+### Jack began his career serving as an officer in the U.S. Navy, with dutyon several ships and shore stations and including 4 deployments at sea and 1 deployment in Iraq.  Following military service, Jack worked as a strategy and engineering consultant, and he recently returned to graduate school to study oceanography.
 ---
 ## Education
 ### BS in Aerospace Engineering from the United States Naval Academy in 1995
@@ -22,13 +18,7 @@
 ---
 ## Recent Projects
 ### "Operation GLOBAL VILLAIN"
-#### Jack recently completed worl on a long-term project to take over the
-#### world for a confidential client who probably is not named "Pinky" or 
-#### "The Brain."  While Jack's performance was outstanding, his client put
-#### the project on indefinite hold in 2019 due to complications during a 
-#### hostile takeover attempt by the Illuminati.  While the "OP GV" has not
-#### been official restarted, Jack suspects that the events of 2020 suggest
-#### his client has shifted focus to other projects in the near-term.OP
+#### Jack recently completed a long-term project to take over the world for a confidential client who probably is not named "Pinky" or "The Brain."  While Jack's performance was outstanding, his client put the project on indefinite hold in 2019 due to complications during a hostile takeover attempt by the Illuminati.  While the "OP GV" has not been official restarted, Jack suspects that the events of 2020 suggest his client has shifted focus to other projects in the near-term.OP
 
 - [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
 
