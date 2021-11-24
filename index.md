@@ -3,7 +3,7 @@
 ---
 ## Education
 ### BS in Aerospace Engineering from the United States Naval Academy in 1995
-### MBA from Georgetown University in 2006[Project 1 Title](/sample_page)
+### MBA from Georgetown University in 2006
 ---
 ## Work Experience
 ### 2020 - 2021: Deloitte Consulting
