@@ -1,9 +1,9 @@
-title: Jack Lawrence # your name (or website title) here
+title: "Jack Lawrence" # your name (or website title) here
 logo: "profilePanda.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Graduate Student in oceanography (physical)
+  Graduate Student in oceanography (physical) <br>
 
-<br>Graduate School of Oceanography
+  Graduate School of Oceanography
 
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
