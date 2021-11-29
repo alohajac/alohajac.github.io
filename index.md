@@ -2,8 +2,8 @@
 ### Jack began his career serving as an officer in the U.S. Navy, with duty on several ships and shore stations and including several deployments at sea and a deployment in Iraq.  Following military service, Jack worked as a strategy and engineering consultant, and he recently returned to graduate school to study oceanography.
 ---
 ## Education
-### BS in Aerospace Engineering from the United States Naval Academy in 1995
-### MBA from Georgetown University in 2006
+### 1995 - BS in Aerospace Engineering from the United States Naval Academy
+### 2006 - MBA from Georgetown University
 ---
 ## Work Experience
 ### 2020 - 2021: Deloitte Consulting
