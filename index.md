@@ -15,7 +15,7 @@
 ---
 ## Recent Projects
 ### "Operation GLOBAL VILLAIN"
-#### Jack recently completed a long-term project to take over the world for a confidential client who probably is not named "Pinky and The Brain Enterprises."  While Jack's performance was outstanding, his client put the project on indefinite hold in 2019 due to complications during a hostile takeover attempt by the Illuminati.  While the "OP GV" has not been official restarted, Jack suspects that the events of 2020 suggest his client has shifted focus to other projects in the near-term
+#### Jack recently completed a long-term project to take over the world for a confidential client who probably is not named "Pinky and The Brain Enterprises."  While Jack's performance was outstanding, his client put the project on indefinite hold in 2019 due to complications during a hostile takeover attempt by the Illuminati.  While the "OP GV" has not been official restarted, The events of the last two years suggest his client has shifted focus to other projects in the near-term.
 
 
 ---
